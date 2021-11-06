@@ -4,9 +4,9 @@
 
 [Action](https://github.com/AseelAlasaad/basic-api-server/actions)
 
-[Heroku main](https://basic-api-server-main.herokuapp.com/)
+[Heroku main](https://basic-api-server-main.herokuapp.com/food)
 
-[Heroku dev](https://basic-api-serverdev.herokuapp.com/)
+[Heroku dev](https://basic-api-serverdev.herokuapp.com/food)
 
 
 ![UML](img/uml.PNG)
